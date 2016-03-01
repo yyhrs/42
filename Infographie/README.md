@@ -1,4 +1,4 @@
 # 42
-- Nibbler: C++
+- Nibbler: C++, dev with hdezier
 - Raytracer: C
 - fract'ol: C
